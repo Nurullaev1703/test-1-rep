@@ -1,2 +1,2 @@
-let i:string = "adj;lad;l"
+let i:string = "add"
 console.log(i)
